@@ -1,0 +1,7 @@
+#include <iostream>
+
+do{
+
+    std::cout << std::endl << "kek" << std::endl;
+
+}while(true);
